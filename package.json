@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "music-metadata": "^8.1.4",
+    "os": "^0.1.2",
+    "pngjs": "^7.0.0",
+    "robotjs": "^0.6.0",
+    "screenshot-desktop": "^1.14.0",
+    "sharp": "^0.32.1",
+    "util": "^0.12.5"
+  }
+}

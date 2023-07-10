@@ -1,0 +1,5 @@
+/Users/yelimbertjavier/workspace/Construccion de software/organizador-musica/organizador-musica/obj/Debug/net6.0/organizador-musica.csproj.AssemblyReference.cache
+/Users/yelimbertjavier/workspace/Construccion de software/organizador-musica/organizador-musica/obj/Debug/net6.0/organizador-musica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yelimbertjavier/workspace/Construccion de software/organizador-musica/organizador-musica/obj/Debug/net6.0/organizador-musica.AssemblyInfoInputs.cache
+/Users/yelimbertjavier/workspace/Construccion de software/organizador-musica/organizador-musica/obj/Debug/net6.0/organizador-musica.AssemblyInfo.cs
+/Users/yelimbertjavier/workspace/Construccion de software/organizador-musica/organizador-musica/obj/Debug/net6.0/organizador-musica.csproj.CoreCompileInputs.cache
